@@ -1,4 +1,10 @@
-.box{
+.box {
   background-color: lightskyblue;
-  
+}
+.myForm {
+  width: 500px;
+ 
+  padding: 5px;
+  margin: 10px;
+ 
 }
